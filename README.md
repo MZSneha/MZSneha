@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
-<h3 align="center">CSE Student | UI/UX Enthusiast | Web Developer</h3>
+<p align="center">
+💻 Web Developer  | 🎨 UI/UX Designer | ✨ Aesthetic Interfaces
+</p>
 
 
-- 💻 I’m currently learning **React, GSAP animations, and modern UI design principles**
-
-- 🌸 I’m looking to collaborate on **Frontend projects and creative UI/UX designs**
-
-- 🤝 I’m looking for help with **Improving advanced JavaScript concepts and modern frontend frameworks**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, and designing clean & aesthetic user interfaces**
-
-- 📫 How to reach me **sneha15-6126@s.diu.edu.bd**
-
-- ⚡ Fun fact **I love turning simple ideas into cute and creative digital experiences ✨**
+🌸 I'm passionate about crafting clean, aesthetic, and user-friendly digital experiences.  
+💻 Currently exploring React, GSAP animations, and modern UI design while building creative frontend projects.  
+🎨 I love turning simple ideas into beautiful interfaces and collaborating on UI/UX-focused work.  
+✨ Always learning, always creating, and always curious.  
+📫 sneha15-6126@s.diu.edu.bd
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
